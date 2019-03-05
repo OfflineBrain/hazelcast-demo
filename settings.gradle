@@ -1,0 +1,8 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'hazelcast-demo'
+include 'hazelcast-demo-env'
+
